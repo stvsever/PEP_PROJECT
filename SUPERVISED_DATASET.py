@@ -1,4 +1,5 @@
-# Previous 40 sentences with DFU coefficients
+"This file contains the supervised dataset and reading material that was used to fine-tine the RO-BERT-a model and to use in the experiment, respectively."
+
 def old_data():
     old_data = {
         "text": [
