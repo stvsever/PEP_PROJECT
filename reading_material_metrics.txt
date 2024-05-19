@@ -1,3 +1,5 @@
+"This file contains the results for the content analysis of the reading material. A summary and translation is provided if you scroll trough the file."
+
 Sentence1: Ik ben geboren in India, waar ik theologie studeer. Mijn bachelorproef gaat over de rituelen binnen de Hindoeïestische religie. Toen ik op Erasmus ging naar Frankrijk, kreeg ik vaak de opmerking dat de geloofsovertuigingen om deze rituelen uit te voeren nergens op gebaseerd zijn. Omdat ik deze geloofsovertugingen in het Indisch kan lezen, is mijn begrip veel dieper. Vertaalde teksten zijn vaak geen goed medium om valide kritiek te geven, de coherentie en nuances vallen weg. Je kan het pas ‘echt’ begrijpen als je ze in de originele taal leest.
 DFU Coefficient: 1 # correct
 Reading Difficulty: 64.71
