@@ -1,0 +1,201 @@
+Sentence1: Ik ben geboren in India, waar ik theologie studeer. Mijn bachelorproef gaat over de rituelen binnen de Hindoeïestische religie. Toen ik op Erasmus ging naar Frankrijk, kreeg ik vaak de opmerking dat de geloofsovertuigingen om deze rituelen uit te voeren nergens op gebaseerd zijn. Omdat ik deze geloofsovertugingen in het Indisch kan lezen, is mijn begrip veel dieper. Vertaalde teksten zijn vaak geen goed medium om valide kritiek te geven, de coherentie en nuances vallen weg. Je kan het pas ‘echt’ begrijpen als je ze in de originele taal leest.
+DFU Coefficient: 1 # correct
+Reading Difficulty: 64.71
+Sentiment: 0
+Arousal: 0
+
+Sentence2: Kunstmatige intelligentie (AI) ontwikkelt snel en biedt veel voordelen, maar roept ook grote ethische vragen op. We moeten bespreken hoe AI ons leven verandert en regels opstellen om het veilig en eerlijk te houden. Richtlijnen vaststellen voor het gebruik van AI is essentieel om ervoor te zorgen dat het mensen helpt zonder schade aan te richten of ongelijkheden te vergroten.
+DFU Coefficient: 0 # correct
+Reading Difficulty: 59.64
+Sentiment: 0
+Arousal: 0
+
+Sentence3: Het beschermen van wilde dieren en natuurlijke plaatsen is van vitaal belang voor de gezondheid van de planeet. Inspanningen voor natuurbehoud zijn nodig om bedreigde soorten en hun leefgebieden te redden. Iedereen kan helpen door op manieren te leven die het milieu niet schaden. Ik ben al 20 jaar vrijwillger bij ‘ProtectLife’, het geeft me veel voldoening!
+DFU Coefficient: 0 # correct
+Reading Difficulty: 73.88
+Sentiment: 0
+Arousal: 0
+
+Sentence4: Ik ben een 50-jarige psychotherapeut, en heb mijn diploma behaald in Zweden waar ik me specialiseerde in de ‘psychoanalyse’. Psychoanalyse vertrekt vanuit het idee dat een psychosociale klacht voortkomt uit een onopgelost probleem uit de kindertijd. Dit probleem verdringt zich tot het onderbewustzijn. Deze ochtend ging mijn 35-jarige client niet akkoord toen ik zei dat zijn extreme haat voor zijn mannelijke werkgevers eigenlijk veroorzaakt wordt door zijn erbarmelijke band met zijn vader toen hij kind was. Deze weerstand is een typische reactie wanneer zo’n onbewuste verdringing naar boven komt.
+DFU Coefficient: 1 # correct
+Reading Difficulty: 44.95
+Sentiment: 0
+Arousal: 0
+
+Sentence5: De biljonairs onder ons, kunnen hun macht gebruiken om een realiteit naar voor te schuiven die de machtsrelatie in stand houdt. Ik heb hier tientallen boeken over geschreven. Een modern voorbeeld zijn Chinese onderzoekinstituten die hun bevindingen zo vormgeven dat ze altijd in lijn lijken te zijn met de heersende ideologie. Bovendien verzinnen ze hun eigen ‘taal’ waarbinnen het lijkt dat alles wat men zegt klopt. Het is cruciaal om in te zien dat deze machtsrelatie enkel doorbroken kan worden door hun meetinstrumten te vermijden en taal/discours af te breken.
+DFU Coefficient: 1 # correct
+Reading Difficulty: 61.67
+Sentiment: 0
+Arousal: 0
+
+Sentence6: Water besparen is belangrijk nu de wereld te maken heeft met watertekorten. Eenvoudige acties zoals lekken repareren en waterbesparende apparaten gebruiken kunnen een groot verschil maken. Door verstandig met water om te gaan, zorgen we dat er genoeg is voor iedereen.Ik begrijp mijn sociale problemen op de werkvloer zeer goed, dit is ook wat mijn psychoanalytische therapeut zegt. Maar zolang er geen verbetering merkbaar is tussen ik en mijn collega’, mis ik het cruciale inzicht. Je kan soms een heel verfijnd beeld hebben over een scenario, maar dit is vaak niet genoeg. Pas wanneer ik eindelijk vooruitgang boek met mijn collega’s, kan je zeggen dat dit het is omdat ik het op een dieper niveau begrijp.
+DFU Coefficient: 0 # correct
+Reading Difficulty: 54.63
+Sentiment: 0
+Arousal: 0
+
+Sentence7: De verkenning van de ruimte, die begon toen Amerika voor het eerst raketten lanceerde die de Kármánlijn overschreden, heeft onschatbare kennis en opwinding gebracht, maar bracht ook een nieuwe uitdaging mee: ruimteafval. Dit vuil, variërend van uitgediende satellieten tot rakettrappen, vormt een groeiend risico voor zowel bemande als onbemande ruimtemissies. Het benadrukt de noodzaak van verantwoordelijkheid en innovatie in hoe we de ruimte verkennen en gebruiken, met nadruk op duurzaamheid en de bescherming van deze grenzeloze omgeving voor toekomstige generaties.
+DFU Coefficient: 0 # correct
+Reading Difficulty: 44.37
+Sentiment: 0
+Arousal: 0
+
+Sentence8: Theoretisch gezien is het mogelijk dat we in een simulatie leven die gemaakt is door een intelligent opperwezen met een supercomputer. Dit opperwezen heeft ons zo geprogrammeerd zodat we nooit controle kunnen krijgen over de simulatie, of de grondrealiteit kunnen contacteren. Hoe sterk we ook blijven zoeken naar patronen, onze controle en rationeel denken is ‘by default’ gelimiteerd. Daarom probeer ik er niet eens aan te denken, ik leef gewoon mijn leven, het heeft toch geen zin.
+DFU Coefficient: 1 # correct
+Reading Difficulty: 51.89
+Sentiment: 0
+Arousal: 0
+
+Sentence9: De opkomst van robots en AI verandert banen. Het is belangrijk om technologie op manieren te gebruiken die iedereen helpen en niemand achterlaten. Technologie in evenwicht brengen met menselijke vaardigheden zoals creativiteit en empathie is essentieel om werk voor iedereen beter te maken. Misschien zou het goed zijn om universeel basisinkomen uit te delen, want niet iedereen zal nog aan werk geraken.
+DFU Coefficient: 0 # correct
+Reading Difficulty: 64.2
+Sentiment: 0
+Arousal: 0
+
+Sentence10: Professoren van Harvard hebben betoogd dat de wetenschap waarschijnlijk nooit zal ontdekken of het bovennatuurlijke bestaat, ongeacht toekomstige vooruitgang. Ze beschrijven dat zelfs de recentste ontwikkelingen in kwantummechanica, meta-fysica en computerwetenschappen geen antwoorden kunnen geven op vele grote vragen over het universum. Zelfs als wetenschappers een beter begrip krijgen van de werking en ontwikkeling van het bestaan en bewustzijn, zal het onmogelijk blijven om om n ate gaan of er daadwerkelijk een Goddelijke kracht aanwezig is. Onderzoek brengt bijna altijd meer vragen dan antwoorden, dus de vraag of zo’n bovennatuurlijke kracht bestaat, is wetenschappelijk gezien eigenlijk niet testbaar.
+DFU Coefficient: 1 # correct
+Reading Difficulty: 29.69
+Sentiment: 0
+Arousal: 0
+
+Sentence11: Overstappen op hernieuwbare energie is essentieel om klimaatverandering te bestrijden op de lange-termijn. Hiernaast zijn onderzoekers ook bezig met een nieuwe veelbelovende techniek, genaamd ‘stratosferische aerosol-injectie’. Met deze techniek probeert men de chemische compositie van de atmosfeer aan te passen zodat er minder infrarood licht gevangen blijft op aarde. Dit gebeurt door met vliegtuigen tonnen chemische deeltjes te verspreiden in de stratosfeer.
+DFU Coefficient: 1 # incorrect
+Reading Difficulty: 47.28
+Sentiment: 0
+Arousal: 0
+
+Sentence12: Tussen Mars en Venus zweeft momenteel een zwart gat met een volume van 0.00000034m³. Het vliegt aan een snelheid van 5000km/u en is op weg naar Neptunus. Geen enkele moderne telescoop kan hem zien, toch is hij er.
+DFU Coefficient: 1 # correct
+Reading Difficulty: 92.42
+Sentiment: 0
+Arousal: 0
+
+Sentence13: Genetisch gemodificeerd voedsel kan helpen bij honger, maar roept ook veiligheids- en milieubezorgdheden op. Voorzichtig zijn met deze technologie en focussen op duurzame landbouw is belangrijk om iedereen veilig en verantwoord te voeden. Deze benadering zorgt ervoor dat de voordelen van mondiale dynamiek elke laag van de samenleving bereiken, inclusief de meest kwetsbaren.
+DFU Coefficient: 0 # correct
+Reading Difficulty: 53.51
+Sentiment: 0
+Arousal: 0
+
+Sentence14: Tegenwoordig is het erg belangrijk om onze persoonlijke informatie online privé te houden vanwege alle tracking en het verzamelen van gegevens. We hebben sterke wetten nodig om onze privacy te beschermen. Leren over online veiligheid en pleiten voor internetvrijheid zijn belangrijke stappen voor iedereen.
+DFU Coefficient: 0 # correct
+Reading Difficulty: 48.09
+Sentiment: 0
+Arousal: 0
+
+Sentence15: Homeopathie vertrekt vanuit het beginsel dat een geneesmiddel geschikt is voor de behandeling van een ziekte indien de toediening van dit middel aan gezonde personen hetzelfde ziektepatroon opwekt. Homeopathie wordt vaak onterecht afgewezen door artsen. Elke persoon is uniek, zodanig uniek dat zelf standaard methoden zoals ‘double-blind placebo-gecontroleerde experimenten’ vergeet dat het over unieke individuen gaan! Het is niet mogelijk om generalisaties te maken van of empirische wetten te formuleren over de mens. Elk geval is immers uniek!
+DFU Coefficient: 1 # correct
+Reading Difficulty: 47.18
+Sentiment: 0
+Arousal: 0
+
+Sentence16: Astronomen hebben via een ruimte-telescoop aliens ontdekt op een exoplaneet ‘Zork’ in een nabij zonnestelsel. De tien beschikbare foto's wijzen aan dat de wezens een groene huidskleur hebben. Aangezien alle 18 gespotte aliens groen zijn claimt de CEO van NASA dat ‘alle inwoners van de exoplaneet een groene huidskleur hebben’. Om deze claim te ondersteunen heeft men een space-shuttle gelanceerd richting ‘Zork’ om specifiek op zoek te gaan naar groene bewegende objecten.
+DFU Coefficient: 1 # correct
+Reading Difficulty: 70.13
+Sentiment: 0
+Arousal: 0
+
+Sentence17: De beurs fungeert als een gereguleerde marktplaats waar aandelen van publiek verhandelde bedrijven, obligaties, en andere financiële instrumenten worden gekocht en verkocht. Kopers en verkopers handelen via een elektronisch netwerk of via de beursvloer, waarbij de prijs van elk aandeel wordt bepaald door vraag en aanbod. Bedrijven gebruiken de beurs om kapitaal te vergaren door aandelen van hun onderneming aan het publiek te verkopen in een proces dat bekend staat als een beursgang of Initial Public Offering (IPO). Beleggers kopen en verkopen deze aandelen in de hoop op winst door prijsschommelingen, terwijl ze ook kunnen profiteren van dividenduitkeringen als het bedrijf winst maakt.
+DFU Coefficient: 0 # correct
+Reading Difficulty: 45.29
+Sentiment: 0
+Arousal: 0
+
+Sentence18: De kans is eigenlijk groter dan oorspronkelijk gedacht dat paranormale gaven zoals helderziendheid mogelijk zijn. De psi-kracht waarmee helderziendheid tot stand komt, dooft af en toe uit. Deze sporadische uitdoving kan men tot op vandaag nog niet voorspellen met een formule. Als helderziendheid experimenteel getest wordt, ziet men een alternered patroon van succesvolle en gefaalde tests. De falende testen worden dus verklaard door de onvoorspelbare uitdoving.
+DFU Coefficient: 1
+Reading Difficulty: 58.08
+Sentiment: 0
+Arousal: 0
+
+Sentence19: In het tijdperk van snelle technologische revoluties is het cruciaal dat het onderwijssysteem zich aanpast om leerlingen niet alleen kennis te laten vergaren, maar hen ook te stimuleren tot creatief denken en gezamenlijke probleemoplossing. Het memoriseren van feiten volstaat niet meer; onderwijs moet studenten voorbereiden op de toekomst door hen te onderwijzen over nieuwe ideeën en hen de vaardigheden bij te brengen die nodig zijn voor succes in een voortdurend veranderende wereld.
+DFU Coefficient: 0 # correct
+Reading Difficulty: 26.48
+Sentiment: 0
+Arousal: 0
+
+Sentence20: Gezondheidszorg moet voor iedereen toegankelijk zijn. Technologie kan helpen de medische zorg te verbeteren en meer mensen te bereiken. Samenwerken om gezondheidszorg eerlijk en toegankelijk voor iedereen te maken is belangrijk, met de focus op het gezond houden van mensen.
+DFU Coefficient: 0 # correct
+Reading Difficulty: 57.98
+Sentiment: 0
+Arousal: 0
+
+Sentence21: Ons volledige universum is niet miljarden jaren geleden tot stand gekomen, maar pas 6 minuten geleden. De schepper heeft een complexe wereld gecreëerd met een schijn van een uitgebreide geschiedenis. Van de grote knal tot de evolutie van het leven op aarde tot ons geheugen. Elke historische gebeurtenis die we denken te kennen, is in feite zorgvuldig vervaardigd om consistentie en continuïteit te bieden in deze recentelijk gevormde schijnrealiteit.
+DFU Coefficient: 1 # correct
+Reading Difficulty: 62.38
+Sentiment: 0
+Arousal: 0
+
+Sentence22: Globalisering heeft voordelen en nadelen. We moeten ervoor zorgen dat het eerlijk is en iedereen helpt, niet alleen de rijken. Kleine bedrijven en eerlijk werk ondersteunen kan de wereldeconomie beter maken voor iedereen. Deze benadering zorgt ervoor dat de voordelen van mondiale dynamiek elke laag van de samenleving bereiken, inclusief de meest kwetsbaren. Het gaat om het creëren van een wereld waarin vooruitgang en welvaart toegankelijk zijn voor iedereen, ongeacht hun geografische locatie of economische status. Door te focussen op verantwoorde praktijken en het welzijn van de planeet en haar bewoners te prioriteren, kunnen we de uitdagingen en kansen die deze ontwikkelingen bieden navigeren.
+DFU Coefficient: 0 # correct
+Reading Difficulty: 53.92
+Sentiment: 0
+Arousal: 0
+
+Sentence23: Geschiedkundigen hebben bewezen dat een relatief groot deel van de Egyptische mythologie daadwerkelijk gebeurd is. En de voorspellingen die verkeerd blijken, horen bovendien niet perse letterlijk geinterpreteerd te worden. Dit zijn voornamelijk metaforen die een moraal naar voor willen brengen.
+DFU Coefficient: 1 # correct
+Reading Difficulty: 49.52
+Sentiment: 0
+Arousal: 0
+
+Sentence24: Ik ben gisteren gevallen op mijn linkerknie, het doet nog steeds veel pijn. Ik mag van de arts geen pijnstillers meer nemen omdat deze slecht zijn voor mijn nieren. Normaal ging ik naar de voetbaltraining vandaag, maar heb deze afgelast. Het voordeel is dat ik nu mijn lievelingsserie kan verder kijken, het is de seizoensfinale.
+DFU Coefficient: 0 # correct
+Reading Difficulty: 74.39
+Sentiment: 0
+Arousal: 0
+
+Sentence25: Sociale media kunnen ons verbinden maar ook valse informatie en haat verspreiden. Het is belangrijk voor sociale media bedrijven om schadelijke inhoud te stoppen en vriendelijkheid te bevorderen. Het beter maken van de online wereld vereist inspanning van iedereen.
+DFU Coefficient: 0 # correct
+Reading Difficulty: 58.28
+Sentiment: 0
+Arousal: 0
+
+Sentence27: Mark gelooft niet dat onze planeet een bolvormig hemellichaam is, maar een schijf. Naar mijn mening is het prima om zo na te denken. In onze samenleving is het respecteren van alle meningen essentieel om een open en constructieve dialoog te bevorderen. Bovendien versterkt het respect voor alle meningen de fundamenten van de democratie, waarin vrijheid van meningsuiting en gedachtewisseling cruciaal zijn voor het welzijn en de vooruitgang van de samenleving. Je zou je moeten schamen als je niet elke mening respecteert!
+DFU Coefficient: 1 # correct
+Reading Difficulty: 63.29
+Sentiment: 0
+Arousal: 0
+
+Sentence28: Een Sloveense filosoof ‘Dr. Nodirbek’ bleek een intelligentiequotiënt te hebben van 207. Toen hij zijn meesterwerk in 1987 uitbracht, een boek over de Westerse economie, kreeg hij veel kritiek van zijn collega’s. Die kritiek is eigenlijk onterecht ,ze begrijpen gewoon niet wat Dr. Nodirbek naar voor brengt.
+DFU Coefficient: 1 # correct
+Reading Difficulty: 78.85
+Sentiment: 0
+Arousal: 0
+
+Sentence29: Online veilig blijven is cruciaal, vooral voor jonge mensen. We moeten leren hoe gevaren zoals cyberpesten en oplichting te vermijden. Deze vaardigheden leren stelt ons in staat om veilig van de voordelen van het internet te genieten.
+DFU Coefficient: 0 # correct
+Reading Difficulty: 67.45
+Sentiment: 0
+Arousal: 0
+
+Sentence30: In onze maatschappij bestaan er wellicht bepaalde rijke individuen die op een zeer corrupte manier aan hun geld zijn geraakt. Dit betekent dat, hoewel de rechtvaardigheid in theorie zou moeten zegevieren, de praktijk vaak anders uitwijst omdat deze individuen hun invloed en hulpbronnen gebruiken om boven de wet te staan. Het is onmogelijk om dit na te gaan, ze zijn zodanig slim dat ze al het bewijs hebben kunnen uitwissen. Het gebrek aan bewijs voor hun daden is precies waarom ze bestaan!
+DFU Coefficient: 1 # correct
+Reading Difficulty: 67.59
+Sentiment: 0
+Arousal: 0
+
+Sentence: Alleen mijn eigen geest is direct kenbaar, de externe wereld en andere geesten zijn slechts inferenties gebaseerd op mijn subjectieve ervaring. Aangezien alle kennis van de buitenwereld door mijn persoonlijke percepties gefilterd wordt, kan ik niet met zekerheid bewijzen dat iets buiten mijn eigen bewustzijn bestaat. Hoeveel ik ook nadenk, elke claim over de objectieve realiteit of de ervaringen van anderen zijn onverifieerbaar en kan niet buiten de context van mijn eigen bewustzijn worden bevestigd.
+DFU Coefficient: 1 # correct
+Reading Difficulty: 37.64
+Sentiment: 0
+Arousal: 0
+
+
+# SUMMARY:
+
+# DFU (measure of interest ; manipulation):
+#Classification accuracy for the 'DFU reading material' and 'neutral reading material' was 100% and 93%.33%, respectively.
+
+# SENTIMENT ; AROUSAL ; READING DIFFICULTY (confounding variables):
+# There are no highly arousing texts (either with positive or negative valence). Which means that valence and arousal will not be confounding variables.
+# The reading difficulty is lower than 80 (inverted Flesch's scale) for all, but one text. Which means that reading difficulty will not be a confounding variable.
+
+DFU Statistics:
+{'mean': 0.7, 'std_dev': 0.45825756949558394, 'range': (0, 1), 'median': 1.0}
+
+Reading Difficulty Statistics:
+{'mean': 56.97933333333334, 'std_dev': 13.903261951387123, 'range': (26.48, 92.42), 'median': 58.03} # A text with a score higher than 80 is considered 'too difficult' (Kincaid et al., 1975). Only 1 sentence had a score higher than 80 (which has been revised)
+
+Sentiment Statistics:
+{'mean': 0.0, 'std_dev': 0.0, 'range': (0, 0), 'median': 0.0}
+
+Arousal Statistics:
+{'mean': 0.0, 'std_dev': 0.0, 'range': (0, 0), 'median': 0.0}
