@@ -1,3 +1,7 @@
+"This script analyzes the de facto unfalsifiability (DFU) and sentiment of various sentences using openai's generative pre-trained transformers for DFU quantification AND a sentiment analysis model (Roberta,textblob,gpt-3.5-turbo-0125,gpt-4) for sentiment evaluation."
+"It runs these analyses in parallel, calculates average DFU and sentiment scores, and compares the predicted scores against expected values to compute RMSE (Root Mean Squared Error) for different sentence types. 
+"Finally, it visualizes the RMSE values in a bar plot to assess the models' performance."
+
 from openai import OpenAI
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from textblob import TextBlob
