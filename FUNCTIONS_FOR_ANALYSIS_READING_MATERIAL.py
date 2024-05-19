@@ -21,7 +21,7 @@ A belief system, as a proposition, is ‘de facto’ unfalsifiable (DFU) wheneve
 client = OpenAI(
     api_key='', ) # personal key has been removed
 
-model_LLM = "gpt-4o" # change to gpt-4o
+model_LLM = "gpt-4o"
 
 def call_GPT(GPT_prompt, model=model_LLM):
     stream = client.chat.completions.create(
