@@ -1,3 +1,5 @@
+# This script contains the functionality that is used for the content analysis of the reading material."
+
 from openai import OpenAI
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from textblob import TextBlob
@@ -17,7 +19,7 @@ A belief system, as a proposition, is ‘de facto’ unfalsifiable (DFU) wheneve
 """
 
 client = OpenAI(
-    api_key='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', )
+    api_key='', ) # personal key has been removed
 
 model_LLM = "gpt-4o" # change to gpt-4o
 
