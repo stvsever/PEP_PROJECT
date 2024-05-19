@@ -1,4 +1,4 @@
-"This script trains the final RO-BERT-a model after a gridsearch to find the optimal hyperparameters (see 'TRAIN_DROP.py').
+"This script trains the final RO-BERT-a model after a gridsearch to find the optimal hyperparameters."
 
 import numpy as np
 import pandas as pd
