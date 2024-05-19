@@ -1,3 +1,5 @@
+"This script quantifies the reading difficulty for the reading material ; or at least ; the method to do so."
+
 import textstat
 
 def analyze_text_difficulty(text):
