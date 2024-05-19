@@ -1,4 +1,5 @@
 ### This file contains the results for the content analysis of the reading material. A summary and translation is provided if you scroll through the file. ###
+# The 'de facto unfalsifiable' texts are annotated with DFU.
 
 #DFU:
 Sentence1: I was born in India, where I study theology. My bachelor's thesis is about the rituals within the Hindu religion. When I went on Erasmus to France, I often received the comment that the beliefs for performing these rituals are baseless. Because I can read these beliefs in Indian, my understanding is much deeper. Translated texts are often not a good medium for valid criticism; the coherence and nuances are lost. You can only 'truly' understand them if you read them in the original language.
