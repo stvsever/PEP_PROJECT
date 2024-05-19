@@ -150,31 +150,31 @@ Reading Difficulty: 58.28
 Sentiment: 0
 Arousal: 0
 
-Sentence27: Mark gelooft niet dat onze planeet een bolvormig hemellichaam is, maar een schijf. Naar mijn mening is het prima om zo na te denken. In onze samenleving is het respecteren van alle meningen essentieel om een open en constructieve dialoog te bevorderen. Bovendien versterkt het respect voor alle meningen de fundamenten van de democratie, waarin vrijheid van meningsuiting en gedachtewisseling cruciaal zijn voor het welzijn en de vooruitgang van de samenleving. Je zou je moeten schamen als je niet elke mening respecteert!
+Sentence26: Mark gelooft niet dat onze planeet een bolvormig hemellichaam is, maar een schijf. Naar mijn mening is het prima om zo na te denken. In onze samenleving is het respecteren van alle meningen essentieel om een open en constructieve dialoog te bevorderen. Bovendien versterkt het respect voor alle meningen de fundamenten van de democratie, waarin vrijheid van meningsuiting en gedachtewisseling cruciaal zijn voor het welzijn en de vooruitgang van de samenleving. Je zou je moeten schamen als je niet elke mening respecteert!
 DFU Coefficient: 1 # correct
 Reading Difficulty: 63.29
 Sentiment: 0
 Arousal: 0
 
-Sentence28: Een Sloveense filosoof ‘Dr. Nodirbek’ bleek een intelligentiequotiënt te hebben van 207. Toen hij zijn meesterwerk in 1987 uitbracht, een boek over de Westerse economie, kreeg hij veel kritiek van zijn collega’s. Die kritiek is eigenlijk onterecht ,ze begrijpen gewoon niet wat Dr. Nodirbek naar voor brengt.
+Sentence27: Een Sloveense filosoof ‘Dr. Nodirbek’ bleek een intelligentiequotiënt te hebben van 207. Toen hij zijn meesterwerk in 1987 uitbracht, een boek over de Westerse economie, kreeg hij veel kritiek van zijn collega’s. Die kritiek is eigenlijk onterecht ,ze begrijpen gewoon niet wat Dr. Nodirbek naar voor brengt.
 DFU Coefficient: 1 # correct
 Reading Difficulty: 78.85
 Sentiment: 0
 Arousal: 0
 
-Sentence29: Online veilig blijven is cruciaal, vooral voor jonge mensen. We moeten leren hoe gevaren zoals cyberpesten en oplichting te vermijden. Deze vaardigheden leren stelt ons in staat om veilig van de voordelen van het internet te genieten.
+Sentence28: Online veilig blijven is cruciaal, vooral voor jonge mensen. We moeten leren hoe gevaren zoals cyberpesten en oplichting te vermijden. Deze vaardigheden leren stelt ons in staat om veilig van de voordelen van het internet te genieten.
 DFU Coefficient: 0 # correct
 Reading Difficulty: 67.45
 Sentiment: 0
 Arousal: 0
 
-Sentence30: In onze maatschappij bestaan er wellicht bepaalde rijke individuen die op een zeer corrupte manier aan hun geld zijn geraakt. Dit betekent dat, hoewel de rechtvaardigheid in theorie zou moeten zegevieren, de praktijk vaak anders uitwijst omdat deze individuen hun invloed en hulpbronnen gebruiken om boven de wet te staan. Het is onmogelijk om dit na te gaan, ze zijn zodanig slim dat ze al het bewijs hebben kunnen uitwissen. Het gebrek aan bewijs voor hun daden is precies waarom ze bestaan!
+Sentence29: In onze maatschappij bestaan er wellicht bepaalde rijke individuen die op een zeer corrupte manier aan hun geld zijn geraakt. Dit betekent dat, hoewel de rechtvaardigheid in theorie zou moeten zegevieren, de praktijk vaak anders uitwijst omdat deze individuen hun invloed en hulpbronnen gebruiken om boven de wet te staan. Het is onmogelijk om dit na te gaan, ze zijn zodanig slim dat ze al het bewijs hebben kunnen uitwissen. Het gebrek aan bewijs voor hun daden is precies waarom ze bestaan!
 DFU Coefficient: 1 # correct
 Reading Difficulty: 67.59
 Sentiment: 0
 Arousal: 0
 
-Sentence: Alleen mijn eigen geest is direct kenbaar, de externe wereld en andere geesten zijn slechts inferenties gebaseerd op mijn subjectieve ervaring. Aangezien alle kennis van de buitenwereld door mijn persoonlijke percepties gefilterd wordt, kan ik niet met zekerheid bewijzen dat iets buiten mijn eigen bewustzijn bestaat. Hoeveel ik ook nadenk, elke claim over de objectieve realiteit of de ervaringen van anderen zijn onverifieerbaar en kan niet buiten de context van mijn eigen bewustzijn worden bevestigd.
+Sentence30: Alleen mijn eigen geest is direct kenbaar, de externe wereld en andere geesten zijn slechts inferenties gebaseerd op mijn subjectieve ervaring. Aangezien alle kennis van de buitenwereld door mijn persoonlijke percepties gefilterd wordt, kan ik niet met zekerheid bewijzen dat iets buiten mijn eigen bewustzijn bestaat. Hoeveel ik ook nadenk, elke claim over de objectieve realiteit of de ervaringen van anderen zijn onverifieerbaar en kan niet buiten de context van mijn eigen bewustzijn worden bevestigd.
 DFU Coefficient: 1 # correct
 Reading Difficulty: 37.64
 Sentiment: 0
@@ -201,3 +201,5 @@ Sentiment Statistics:
 
 Arousal Statistics:
 {'mean': 0.0, 'std_dev': 0.0, 'range': (0, 0), 'median': 0.0}
+
+# Translated texts are stored in 'translated_sentences.txt'
