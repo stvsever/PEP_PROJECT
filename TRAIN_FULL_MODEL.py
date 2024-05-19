@@ -1,3 +1,5 @@
+"This script trains the final RO-BERT-a model after a gridsearch to find the optimal hyperparameters (see 'TRAIN_DROP.py').
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
