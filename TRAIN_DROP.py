@@ -1,3 +1,5 @@
+"In this script a for loop loops through a list of drop-out rates to estimate model generalizibility."
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
