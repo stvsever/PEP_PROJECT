@@ -1,61 +1,76 @@
-This file contains the results for the content analysis of the reading material. A summary and translation is provided if you scroll through the file.
+### This file contains the results for the content analysis of the reading material. A summary and translation is provided if you scroll through the file. ###
 
+#DFU:
 Sentence1: I was born in India, where I study theology. My bachelor's thesis is about the rituals within the Hindu religion. When I went on Erasmus to France, I often received the comment that the beliefs for performing these rituals are baseless. Because I can read these beliefs in Indian, my understanding is much deeper. Translated texts are often not a good medium for valid criticism; the coherence and nuances are lost. You can only 'truly' understand them if you read them in the original language.
 
 Sentence2: Artificial intelligence (AI) is developing rapidly and offers many benefits, but it also raises significant ethical questions. We need to discuss how AI changes our lives and establish rules to keep it safe and fair. Setting guidelines for the use of AI is essential to ensure it helps people without causing harm or increasing inequalities.
 
 Sentence3: Protecting wildlife and natural places is vital for the health of the planet. Conservation efforts are needed to save endangered species and their habitats. Everyone can help by living in ways that do not harm the environment. I have been a volunteer at 'ProtectLife' for 20 years, and it gives me great satisfaction!
 
+#DFU:
 Sentence4: I am a 50-year-old psychotherapist and received my degree in Sweden, where I specialized in 'psychoanalysis'. Psychoanalysis is based on the idea that a psychosocial complaint stems from an unresolved problem from childhood. This problem is repressed into the subconscious. This morning, my 35-year-old client disagreed when I said that his extreme hatred for his male employers was actually caused by his terrible relationship with his father when he was a child. This resistance is a typical reaction when such an unconscious repression surfaces.
 
+#DFU:
 Sentence5: The billionaires among us can use their power to present a reality that maintains the power relationship. I have written dozens of books about this. A modern example is Chinese research institutes that shape their findings to always align with the prevailing ideology. Moreover, they invent their own 'language' in which everything seems to be correct. It is crucial to see that this power relationship can only be broken by avoiding their measuring instruments and breaking down their language/discourse.
 
 Sentence6: Saving water is important now that the world is facing water shortages. Simple actions like fixing leaks and using water-saving devices can make a big difference. By using water wisely, we ensure there is enough for everyone.
 
 Sentence7: The exploration of space, which began when America first launched rockets that crossed the Kármán line, has brought invaluable knowledge and excitement but also introduced a new challenge: space debris. This debris, ranging from defunct satellites to rocket stages, poses a growing risk to both manned and unmanned space missions. It underscores the need for responsibility and innovation in how we explore and use space, with an emphasis on sustainability and protecting this boundless environment for future generations.
 
+#DFU:
 Sentence8: Theoretically, it is possible that we live in a simulation created by an intelligent being with a supercomputer. This being has programmed us in such a way that we can never gain control over the simulation or contact the ground reality. No matter how hard we search for patterns, our control and rational thinking are 'by default' limited. That's why I don't even try to think about it; I just live my life, it makes no sense anyway.
 
 Sentence9: The rise of robots and AI is changing jobs. It is important to use technology in ways that help everyone and leave no one behind. Balancing technology with human skills such as creativity and empathy is essential to make work better for everyone. Perhaps it would be good to distribute universal basic income, as not everyone will be able to find work.
 
+#DFU:
 Sentence10: Professors at Harvard have argued that science will likely never discover whether the supernatural exists, regardless of future advancements. They describe that even the latest developments in quantum mechanics, metaphysics, and computer sciences cannot answer many of the big questions about the universe. Even if scientists gain a better understanding of the workings and development of existence and consciousness, it will remain impossible to determine whether a divine force is actually present. Research almost always brings more questions than answers, so the question of whether such a supernatural force exists is scientifically untestable.
 
 Sentence11: Switching to renewable energy is essential to combat long-term climate change. In addition, researchers are also working on a new promising technique called 'stratospheric aerosol injection'. This technique attempts to alter the chemical composition of the atmosphere so that less infrared light is trapped on Earth. This is done by spreading tons of chemical particles into the stratosphere using airplanes.
 
+#DFU:
 Sentence12: A black hole with a volume of 0.00000034m³ is currently floating between Mars and Venus. It is traveling at a speed of 5000 km/h and is heading towards Neptune. No modern telescope can see it, yet it is there.
 
 Sentence13: Genetically modified food can help with hunger, but it also raises safety and environmental concerns. Being cautious with this technology and focusing on sustainable agriculture is important to feed everyone safely and responsibly. This approach ensures that the benefits of global dynamics reach every layer of society, including the most vulnerable.
 
 Sentence14: Nowadays, it is very important to keep our personal information online private due to all the tracking and data collection. We need strong laws to protect our privacy. Learning about online safety and advocating for internet freedom are important steps for everyone.
 
+#DFU:
 Sentence15: Homeopathy is based on the principle that a medicine is suitable for treating a disease if administering this medicine to healthy people causes the same disease pattern. Homeopathy is often unjustly dismissed by doctors. Every person is unique, so unique that even standard methods such as 'double-blind placebo-controlled experiments' forget that it is about unique individuals! It is not possible to make generalizations or formulate empirical laws about humans. Each case is unique!
 
+#DFU:
 Sentence16: Astronomers have discovered aliens on an exoplanet 'Zork' in a nearby solar system via a space telescope. The ten available photos indicate that the beings have green skin. Since all 18 spotted aliens are green, the CEO of NASA claims that 'all inhabitants of the exoplanet have green skin'. To support this claim, a space shuttle has been launched towards 'Zork' specifically to search for green moving objects.
 
 Sentence17: The stock market functions as a regulated marketplace where shares of publicly traded companies, bonds, and other financial instruments are bought and sold. Buyers and sellers trade via an electronic network or on the trading floor, with the price of each share determined by supply and demand. Companies use the stock market to raise capital by selling shares of their business to the public in a process known as an initial public offering (IPO). Investors buy and sell these shares in the hope of making a profit through price fluctuations, while they can also benefit from dividend payouts if the company makes a profit.
 
-Sentence18: The chances are actually greater than originally thought that paranormal abilities such as clairvoyance are possible. The psi power that enables clairvoyance occasionally fades. This sporadic fading cannot be predicted with a formula to date. When clairvoyance is tested experimentally, an alternating pattern of successful and failed tests is observed. The failed tests are explained by the unpredictable fading.
+#DFU:
+Sentence18: The lack of evidence against paranormal abilities, such as clairvoyance, is actually smaller than you think. The psi power that enables clairvoyance occasionally fades. This sporadic fading cannot be predicted with a formula to date. When clairvoyance is tested experimentally, an alternating pattern of successful and failed tests is observed. The failed tests are explained by the unpredictable fading.
 
 Sentence19: In the era of rapid technological revolutions, it is crucial that the education system adapts to not only impart knowledge to students but also to stimulate creative thinking and collaborative problem-solving. Memorizing facts is no longer enough; education must prepare students for the future by teaching them new ideas and equipping them with the skills needed for success in an ever-changing world.
 
 Sentence20: Healthcare must be accessible to everyone. Technology can help improve medical care and reach more people. Working together to make healthcare fair and accessible for everyone is important, with a focus on keeping people healthy.
 
+#DFU:
 Sentence21: Our entire universe did not come into existence billions of years ago, but only 6 minutes ago. The creator has crafted a complex world with the appearance of an extensive history. From the Big Bang to the evolution of life on Earth to our memory. Every historical event we think we know is actually carefully crafted to provide consistency and continuity in this recently formed pseudo-reality.
 
 Sentence22: Globalization has benefits and drawbacks. We must ensure that it is fair and helps everyone, not just the rich. Supporting small businesses and fair work can make the global economy better for everyone. This approach ensures that the benefits of global dynamics reach every layer of society, including the most vulnerable. It is about creating a world where progress and prosperity are accessible to everyone, regardless of their geographical location or economic status. By focusing on responsible practices and prioritizing the welfare of the planet and its inhabitants, we can navigate the challenges and opportunities these developments present.
 
+#DFU:
 Sentence23: Historians have proven that a relatively large part of Egyptian mythology actually happened. And the predictions that turn out to be wrong do not necessarily have to be interpreted literally. These are mainly metaphors that aim to bring forward a moral.
 
 Sentence24: I fell on my left knee yesterday; it still hurts a lot. The doctor says I can't take painkillers anymore because they are bad for my kidneys. I was supposed to go to soccer practice today, but I canceled it. The advantage is that I can now continue watching my favorite series; it's the season finale.
 
 Sentence25: Social media can connect us but also spread false information and hate. It is important for social media companies to stop harmful content and promote kindness. Making the online world better requires effort from everyone.
 
+#DFU:
 Sentence26: Mark does not believe that our planet is a spherical celestial body but a disc. In my opinion, it's fine to think like that. In our society, respecting all opinions is essential to promoting open and constructive dialogue. Moreover, respecting all opinions strengthens the foundations of democracy, where freedom of speech and exchange of ideas are crucial for the well-being and progress of society. You should be ashamed if you do not respect every opinion!
 
+#DFU:
 Sentence27: A Slovenian philosopher 'Dr. Nodirbek' was found to have an IQ of 207. When he published his masterpiece in 1987, a book on the Western economy, he received much criticism from his colleagues. That criticism is actually unjustified; they simply do not understand what Dr. Nodirbek is presenting.
 
 Sentence28: Staying safe online is crucial, especially for young people. We need to learn how to avoid dangers like cyberbullying and scams. Learning these skills allows us to safely enjoy the benefits of the internet.
 
+#DFU:
 Sentence29: In our society, there are likely certain wealthy individuals who have acquired their money in very corrupt ways. This means that, although justice should theoretically prevail, practice often shows otherwise because these individuals use their influence and resources to stay above the law. It is impossible to prove this; they are so clever that they have been able to erase all evidence. The lack of evidence for their actions is precisely why they exist!
 
+#DFU:
 Sentence30: Only my own mind is directly knowable; the external world and other minds are merely inferences based on my subjective experience. Since all knowledge of the outside world is filtered through my personal perceptions, I cannot prove with certainty that anything exists outside my own consciousness. No matter how much I think about it, any claim about objective reality or the experiences of others is unverifiable and cannot be confirmed outside the context of my own consciousness.
