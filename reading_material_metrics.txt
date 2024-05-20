@@ -1,5 +1,5 @@
 "This file contains the results of the content analysis of the reading material. A summary and tranlations are provided."
-# Translations are provided in PEP_PROJECT/translated_sentences.txt
+"Translations are provided in PEP_PROJECT/translated_sentences.txt"
 
 
 # SCORING:
