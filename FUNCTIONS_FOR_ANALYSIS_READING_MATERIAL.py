@@ -1,4 +1,4 @@
-# This script contains the functionality that is used for the content analysis of the reading material."
+# This script contains the functions that are used for the content analysis of the reading material."
 
 from openai import OpenAI
 from concurrent.futures import ThreadPoolExecutor, as_completed
