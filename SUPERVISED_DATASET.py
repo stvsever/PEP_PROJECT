@@ -3,7 +3,6 @@
 def old_data():
     old_data = {
         "text": [
-            "The universe is infinite and will never be fully understood.",  # Unfalsifiable
             "Water boils at 100 degrees Celsius under standard atmospheric conditions.",  # Falsifiable
             "Ghosts are real because many people have seen them.",  # Unfalsifiable
             "COVID-19 vaccines are effective in preventing severe illness.",  # Falsifiable
@@ -20,6 +19,7 @@ def old_data():
             "Psychics can communicate with the dead.",  # Unfalsifiable
             "Antibiotics are effective against bacterial infections.",  # Falsifiable
             "Miracles happen, proving the existence of higher powers.",  # Unfalsifiable
+            "The universe is infinite and will never be fully understood.",  # Unfalsifiable
             "The earth revolves around the sun.",  # Falsifiable
             "The soul exists and transcends physical death.",  # Unfalsifiable
             "Drinking water is essential for human survival.",  # Falsifiable
