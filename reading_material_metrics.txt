@@ -1,4 +1,6 @@
 "This file contains the results of the content analysis of the reading material. A summary and translation is provided if you scroll trough the file."
+# Translations are provided in PEP_PROJECT/translated_sentences.txt
+
 
 # SCORING:
 # DFU Coefficient: (0='neutral' and 1='de facto unfalsifiable')
