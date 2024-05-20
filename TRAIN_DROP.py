@@ -1,4 +1,4 @@
-"In this script a 'for loop' loops through a list of drop-out rates to ultimately estimate model generalizibility."
+"In this script a 'for loop' loops through a list of drop-out rates."
 
 import numpy as np
 import pandas as pd
