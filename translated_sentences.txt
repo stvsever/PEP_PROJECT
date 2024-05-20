@@ -1,4 +1,4 @@
-### This file contains the results for the content analysis of the reading material. A summary and translation is provided if you scroll through the file. ###
+### This file contains the results for the content analysis of the reading material. A summary and translations are also provided. ###
 # The 'de facto unfalsifiable' texts are annotated with DFU.
 
 #DFU:
