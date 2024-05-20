@@ -1,4 +1,4 @@
-"This script has the same functionality as 'Content_Analysis_DFU.py', but now uses a fine-tuned RO-BERT-a to extract the DFU-coefficient."
+"This script has the same functionality as 'Content_Analysis_DFU.py', but now uses the fine-tuned RO-BERT-a model to extract the DFU-coefficient."
 
 from textblob import TextBlob
 from sklearn.metrics import mean_squared_error
