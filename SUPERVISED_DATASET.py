@@ -1,4 +1,4 @@
-"This file contains the supervised dataset and reading material that was used to fine-tine the RO-BERT-a model and to use in the experiment, respectively."
+"This file contains 1. the supervised dataset (manually annotated) that was used to fine-tine the RO-BERT-a model and 2. the reading material that will be used in the experiment."
 
 def old_data():
     old_data = {
