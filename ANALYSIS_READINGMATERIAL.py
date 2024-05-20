@@ -1,4 +1,4 @@
-"This script is used to compute four metrics (1 measure of interest ; 3 confounding variables) of the reading material.
+"This script is used to compute four metrics (1 measure of interest ; 3 confounding variables) of the reading material."
 "Three models are used: 'twitter-roberta-base-sentiment', 'gpt-4o' and 'Flesch's reading ease model'."
 
 import SUPERVISED_DATASET
