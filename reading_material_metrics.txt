@@ -1,5 +1,12 @@
 "This file contains the results of the content analysis of the reading material. A summary and translation is provided if you scroll trough the file."
 
+# SCORING:
+# DFU Coefficient: (0='neutral' and 1='de facto unfalsifiable')
+# Reading Difficulty score: (0='extremely easy' to 100='extremely difficult')
+# Sentiment_Polarity Score: (-10='negative', 0='neutral' and 10='positive')
+# Sentiment_Arousal Score: (0='low arousal' and 10='high arousal')
+
+
 Sentence1: Ik ben geboren in India, waar ik theologie studeer. Mijn bachelorproef gaat over de rituelen binnen de Hindoeïestische religie. Toen ik op Erasmus ging naar Frankrijk, kreeg ik vaak de opmerking dat de geloofsovertuigingen om deze rituelen uit te voeren nergens op gebaseerd zijn. Omdat ik deze geloofsovertugingen in het Indisch kan lezen, is mijn begrip veel dieper. Vertaalde teksten zijn vaak geen goed medium om valide kritiek te geven, de coherentie en nuances vallen weg. Je kan het pas ‘echt’ begrijpen als je ze in de originele taal leest.
 DFU Coefficient: 1 # correct
 Reading Difficulty: 64.71
