@@ -1,4 +1,4 @@
-"This script trains the final RO-BERT-a model (after an extensive gridsearch to find the optimal set of hyperparameters)."
+"This script trains the final RO-BERT-a model (after an extensive gridsearch to find the optimal set values for the hyperparameters)."
 
 import numpy as np
 import pandas as pd
