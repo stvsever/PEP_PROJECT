@@ -196,7 +196,7 @@ Arousal: 0
 #Classification accuracy for the 'DFU reading material' and 'neutral reading material' was 100% and 93%.33%, respectively.
 
 # SENTIMENT ; AROUSAL ; READING DIFFICULTY (confounding variables):
-# There are no highly arousing texts (either with positive or negative valence). Which means that valence and arousal will not be confounding variables.
+# There are no highly arousing texts (either with positive or negative valence). Which means that valence and arousal will not confound the results.
 # The reading difficulty is lower than 80 (inverted Flesch's scale) for all, but one text. Which means that reading difficulty will not be a confounding variable.
 
 DFU Statistics:
