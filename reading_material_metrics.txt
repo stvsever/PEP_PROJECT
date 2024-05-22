@@ -200,7 +200,7 @@ Arousal: 0
 # The reading difficulty is lower than 80 (inverted Flesch's scale) for all texts, but one. Which means that reading difficulty will not be a confounder.
 
 DFU Statistics:
-{'mean': 0.7, 'std_dev': 0.45825756949558394, 'range': (0, 1), 'median': 1.0}
+{'mean': 0.5, 'std_dev': 0.25, 'range': (0, 1), 'median': 1.0}
 
 Reading Difficulty Statistics:
 {'mean': 56.97933333333334, 'std_dev': 13.903261951387123, 'range': (26.48, 92.42), 'median': 58.03} # A text with a score higher than 80 is considered 'too difficult' (Kincaid et al., 1975). Only 1 sentence had a score higher than 80 (which has been revised)
