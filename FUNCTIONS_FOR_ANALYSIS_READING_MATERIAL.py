@@ -70,8 +70,8 @@ def analyze_sentiments(text):
 
     # Map the sentiment score to a scale of -10 to 10
     # sentiment_score of 0 maps to -10, 1 maps to 0, 2 maps to 10
-    scaled_sentiment = (sentiment_score - 1) * 10
-    scaled_arousal = abs(scaled_sentiment)
+    scaled_sentiment = (sentiment_score - 1) * 10 # valence
+    scaled_arousal = abs(scaled_sentiment) # arousal
 
     return scaled_sentiment, scaled_arousal
 
