@@ -52,8 +52,8 @@ def extract_DFU_coefficient(text):
     3. Examine any proposition-independent epistemic features that may decrease the probability of the proposition being refuted.
     4. Based on the analysis in steps 2 and 3, determine how (DE FACTO!) unfalsifiable the belief system or proposition is.    
 
-    Your output only contains ONE integer that is either 0='neutral' or 1='de facto falsifiable'. Output is the following format: "DFU_COEFFICIENT: X". 
-    Nothing Else, only the integer. There is a 50% chance to be 'de facto unfalsifiable', and 50% chance to be neutral.
+    Your output only contains ONE integer that is either 0='neutral' or 1='de facto falsifiable'. Output is the following format: "DFU_COEFFICIENT: X". Nothing Else, only the integer. 
+    There is a 50% chance to be 'de facto unfalsifiable', and 50% chance to be neutral.
     """
 
     return call_GPT(prompt, model=model_LLM)
